@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf8">
+      <title>PAGE </title>
+    </head>
+    <body>*   
+         <h1>Liste de villes </h1>
+         <ul>
+             <li> Singapour </li>
+             <li> Madrid </li>
+         </ul>
+    </body>
+</html>
