@@ -9,6 +9,7 @@
          <ul>
              <li> Singapour </li>
              <li> Madrid </li>
+             <li> Los Angeles</li>
          </ul>
     </body>
 </html>
