@@ -13,6 +13,10 @@
              <li> Bruxelles</li>
              <li> Berlin</li>
              <li> Rome</li>
+             <li> Venise</li>
+             <li> Florence</li>
+             <li> Naples</li>
+             <li> Sienne</li>
          </ul>
     </body>
 </html>
